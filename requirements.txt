@@ -1,3 +1,0 @@
-streamli
-folium
-streamlit-folium
